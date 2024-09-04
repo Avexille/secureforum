@@ -1,0 +1,45 @@
+.welcome {
+    margin-top: 30px;
+    color: rgba(18, 181, 53, 0.798);
+}
+
+.thread-form {
+    margin-top: 20px;
+}
+
+.thread-form input,
+.thread-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.thread-form button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.thread-form button:hover {
+    background-color: #0056b3;
+}
+
+.logout button {
+    margin-top: 20px;
+    background-color: #ff0000cc;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.logout button:hover {
+    background-color: #b30000ee;
+}
